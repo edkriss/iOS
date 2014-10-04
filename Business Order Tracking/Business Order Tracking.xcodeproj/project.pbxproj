@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2B58AADF19D893250005192B /* Order Records.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2B58AADE19D893250005192B /* Order Records.xib */; };
 		2B9AB8EF19D6967D00A34337 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B9AB8EE19D6967D00A34337 /* main.m */; };
 		2B9AB8F219D6967D00A34337 /* Document.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B9AB8F119D6967D00A34337 /* Document.m */; };
 		2B9AB8F519D6967D00A34337 /* Document.xib in Resources */ = {isa = PBXBuildFile; fileRef = 2B9AB8F319D6967D00A34337 /* Document.xib */; };
@@ -27,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2B58AADE19D893250005192B /* Order Records.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "Order Records.xib"; sourceTree = "<group>"; };
 		2B9AB8E919D6967D00A34337 /* Business Order Tracking.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Business Order Tracking.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2B9AB8ED19D6967D00A34337 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2B9AB8EE19D6967D00A34337 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -85,6 +87,7 @@
 				2B9AB8F319D6967D00A34337 /* Document.xib */,
 				2B9AB8F919D6967D00A34337 /* Images.xcassets */,
 				2B9AB8FB19D6967D00A34337 /* MainMenu.xib */,
+				2B58AADE19D893250005192B /* Order Records.xib */,
 				2B9AB8F619D6967D00A34337 /* Document.xcdatamodeld */,
 				2B9AB8EC19D6967D00A34337 /* Supporting Files */,
 			);
@@ -197,6 +200,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2B58AADF19D893250005192B /* Order Records.xib in Resources */,
 				2B9AB8F519D6967D00A34337 /* Document.xib in Resources */,
 				2B9AB8FA19D6967D00A34337 /* Images.xcassets in Resources */,
 				2B9AB8FD19D6967D00A34337 /* MainMenu.xib in Resources */,
@@ -414,6 +418,7 @@
 				2B9AB90E19D6967D00A34337 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2B9AB90F19D6967D00A34337 /* Build configuration list for PBXNativeTarget "Business Order TrackingTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +427,7 @@
 				2B9AB91119D6967D00A34337 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
